@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Fredd Actualizado",
+      "empresa": "Donde sea",
+      "email": "correo@ho.com",
+      "telefono": "85694066",
+      "notas": "Actualizando cliente",
+      "id": 2
+    },
+    {
+      "nombre": "Edgar",
+      "empresa": "Udemy",
+      "email": "correo@ho.com",
+      "telefono": "85694066",
+      "notas": "Actualizado",
+      "id": 4
+    }
+  ]
+}
